@@ -8,6 +8,7 @@ My LeetCode solutions in python
 | ------- |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranavthore9860/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pranavthore9860/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pranavthore9860/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -64,6 +65,7 @@ My LeetCode solutions in python
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/pranavthore9860/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pranavthore9860/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -96,4 +98,13 @@ My LeetCode solutions in python
 | [0678-valid-parenthesis-string](https://github.com/pranavthore9860/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranavthore9860/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pranavthore9860/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pranavthore9860/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pranavthore9860/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pranavthore9860/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
