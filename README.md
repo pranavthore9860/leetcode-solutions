@@ -23,6 +23,7 @@ My LeetCode solutions in python
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
@@ -33,6 +34,7 @@ My LeetCode solutions in python
 | [2409-count-days-spent-together](https://github.com/pranavthore9860/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
