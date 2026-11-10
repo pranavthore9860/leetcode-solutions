@@ -26,6 +26,7 @@ My LeetCode solutions in python
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -132,6 +133,7 @@ My LeetCode solutions in python
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranavthore9860/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pranavthore9860/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pranavthore9860/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
